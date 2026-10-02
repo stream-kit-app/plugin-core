@@ -1,13 +1,13 @@
 {
   "key": "core",
   "name": "Core Handlers",
-  "version": "0.1.1-alpha.2",
+  "version": "0.2.0-alpha.8",
   "description": "Core action handlers, variables, collections, logs, and process triggers.",
   "icon": "ri:settings-3-line",
   "entry": "dist/index.js",
   "dependencies": [],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-core/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-core/releases/download/v0.1.1-alpha.2/plugin-core.zip",
-  "sha256": "fd856a1b99a621f870774e035f188f9b86a896976e870ccc18e40b980d40866f"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-core/releases/download/v0.2.0-alpha.8/plugin-core.zip",
+  "sha256": "98c219d4ace83a340fa7fdf018524d6c12c5560017c5f264164df3fe10fd80e8"
 }
